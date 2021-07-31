@@ -1,0 +1,12 @@
+/Users/milesheaton/Documents/git-test/bin/Debug/netcoreapp3.1/git-test.deps.json
+/Users/milesheaton/Documents/git-test/bin/Debug/netcoreapp3.1/git-test.runtimeconfig.json
+/Users/milesheaton/Documents/git-test/bin/Debug/netcoreapp3.1/git-test.runtimeconfig.dev.json
+/Users/milesheaton/Documents/git-test/bin/Debug/netcoreapp3.1/git-test.dll
+/Users/milesheaton/Documents/git-test/bin/Debug/netcoreapp3.1/git-test.pdb
+/Users/milesheaton/Documents/git-test/obj/Debug/netcoreapp3.1/git-test.csprojAssemblyReference.cache
+/Users/milesheaton/Documents/git-test/obj/Debug/netcoreapp3.1/git-test.AssemblyInfoInputs.cache
+/Users/milesheaton/Documents/git-test/obj/Debug/netcoreapp3.1/git-test.AssemblyInfo.cs
+/Users/milesheaton/Documents/git-test/obj/Debug/netcoreapp3.1/git-test.csproj.CoreCompileInputs.cache
+/Users/milesheaton/Documents/git-test/obj/Debug/netcoreapp3.1/git-test.dll
+/Users/milesheaton/Documents/git-test/obj/Debug/netcoreapp3.1/git-test.pdb
+/Users/milesheaton/Documents/git-test/obj/Debug/netcoreapp3.1/git-test.genruntimeconfig.cache

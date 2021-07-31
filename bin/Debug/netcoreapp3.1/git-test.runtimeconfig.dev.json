@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/milesheaton/.dotnet/store/|arch|/|tfm|",
+      "/Users/milesheaton/.nuget/packages"
+    ]
+  }
+}
